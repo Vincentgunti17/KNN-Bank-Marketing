@@ -1,4 +1,4 @@
-# Week 5 — Supervised Learning with KNN (Portuguese Bank Marketing)
+# Supervised Learning with KNN (Portuguese Bank Marketing)
 
 This repository contains a Jupyter notebook that builds and evaluates a K-Nearest Neighbors (KNN) classifier on the Portuguese Bank Marketing dataset. The goal is to predict whether a customer will subscribe to a term deposit based on personal, contact, and socio‑economic attributes.
 
@@ -43,6 +43,7 @@ The workflow in the notebook includes:
 Below is the confusion matrix and classification performance visualization:
 
 ![Model Results](images/output.png)
+
 
 
 
