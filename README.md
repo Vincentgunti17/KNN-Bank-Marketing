@@ -44,6 +44,11 @@ Below is the confusion matrix and classification performance visualization:
 
 ![Model Results](images/output.png)
 
+with open("README.md", "a") as f:
+    f.write("\n\n![Model Output](images/output.png)\n")
+
+
+
   ```
 - The notebook also prints a classification report (precision, recall, f1-score) for both classes.
 
@@ -53,7 +58,7 @@ Note: Your numbers may vary slightly due to environment differences and any chan
 ```
 .
 ├── README.md
-├── vincent_w5_Assignment.ipynb
+├── KNN_Bank_Marketing.ipynb
 └── data/
     └── bank-additional-full.csv   # not included; add locally
 ```
