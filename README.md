@@ -44,8 +44,6 @@ Below is the confusion matrix and classification performance visualization:
 
 ![Model Results](images/output.png)
 
-with open("README.md", "a") as f:
-    f.write("\n\n![Model Output](images/output.png)\n")
 
 
 
