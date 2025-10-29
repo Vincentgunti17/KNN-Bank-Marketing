@@ -36,6 +36,11 @@ The workflow in the notebook includes:
   ```
   [[5138  166]
    [ 496  298]]
+   
+   <p align="center">
+  <img src="images/output.png" alt="Model Results" width="600"/>
+</p>
+
   ```
 - The notebook also prints a classification report (precision, recall, f1-score) for both classes.
 
