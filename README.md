@@ -42,8 +42,8 @@ The workflow in the notebook includes:
 
 Below is the confusion matrix and classification performance visualization:
 
-![Model Results](images/output.png)
-![Model Results](images/1.png)
+![Model Results](output.png)
+![Model Results](1.png)
 
 
 
